@@ -1,6 +1,6 @@
 <?php
 ob_start();
-$mysqli = new mysqli("sql213.epizy.com","epiz_32289903","GJKgNJ44Lk9pas","epiz_32289903_retoria");
+$mysqli = new mysqli("localhost","dumbass","dumbass","retoria");
 		global $mysqli;	
 
 		function thetime()
